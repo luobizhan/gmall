@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gmall_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_api/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_user/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_common_util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_service_util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_web_util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_user_service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_user_web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_manage_service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_manage_web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_item_web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_redistest/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_search_web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_search_service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_cart_web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_cart_service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_passport_web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_order_web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_order_service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_payment_web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_payment_service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

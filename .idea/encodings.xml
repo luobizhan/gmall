@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/gmall_cart_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_cart_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_common_util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_item_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_manage_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_manage_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_order_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_order_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_passport_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_payment_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_payment_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_redistest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_search_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_search_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_service_util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_user_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_user_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall_web_util" charset="UTF-8" />
+  </component>
+</project>
